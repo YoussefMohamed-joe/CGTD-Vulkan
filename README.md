@@ -24,5 +24,5 @@ The page includes:
 <ul>
   <li>Team Member Name 1</li>
   <li>Team Member Name 2</li>
-  <!-- Add more team members here -->
+  <!-- Add more team members here and change the names -->
 </ul>
